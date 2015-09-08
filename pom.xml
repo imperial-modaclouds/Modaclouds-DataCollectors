@@ -120,7 +120,7 @@
 		<dependency>
 			<groupId>it.polimi.tower4clouds</groupId>
 			<artifactId>data-collector-library</artifactId>
-			<version>0.2.3</version>
+			<version>0.3</version>
 		</dependency>
 	</dependencies>
 
@@ -199,7 +199,7 @@
 					<repositoryOwner>imperial-modaclouds</repositoryOwner>    <!-- github username -->
 				</configuration>
 				<executions>
-					<!-- run site-maven-plugin's 'site' target as part of the build's normal 
+					<!-- run site-maven-plugin's 'site' target as part of the build's normal
 						'deploy' phase -->
 					<execution>
 						<goals>
