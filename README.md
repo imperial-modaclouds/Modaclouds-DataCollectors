@@ -44,3 +44,9 @@ Release repository
     ...
 </repositories>
 ```
+
+##License##
+
+Licensed under the [BSD 3-clause][1]
+
+[1]: http://opensource.org/licenses/BSD-3-Clause
